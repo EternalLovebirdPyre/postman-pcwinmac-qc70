@@ -1,4 +1,4 @@
-# 
+# Lightweight Postman plugins for Mac OS | Turbo Postman plugins for PC Windows. Featuring code-navigation and code-analysis — optimized for maximum performance on every platform.
 
 
 
